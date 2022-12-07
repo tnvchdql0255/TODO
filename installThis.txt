@@ -1,0 +1,2 @@
+npx expo install expo-checkbox
+npm install --save react-native-swipe-list-view
